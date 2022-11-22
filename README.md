@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MethodM4N/MethodM4N/blob/master/HelloWorld.gif" alt="HelloWorld" />
+<img src="https://github.com/MethodM4N/MethodM4N/blob/main/HelloWorld.gif" alt="HelloWorld" />
 </div>
 
 <!--
