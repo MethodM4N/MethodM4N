@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/MethodM4N/MethodM4N/blob/master/HelloWorld.gif" alt="HelloWorld" />
+</div>
 
 <!--
 **MethodM4N/MethodM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
