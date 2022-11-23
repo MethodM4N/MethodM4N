@@ -3,4 +3,4 @@
 </div>
 
 # Welcome To My GitHub Profile! My name is Aleksandr! 
-## Graduaded Web Developer :computer:
+## Graduaded Web Developer :computer: by [Yandex.Prakticum](https://practicum.yandex.ru/)
