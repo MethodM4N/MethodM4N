@@ -7,6 +7,6 @@
 ## :link: Contacts
 
 <p align="left">
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="10" height="10"/> </a>
+   <a href="https://t.me/Methodmvn" target="_blank"> <img src="https://github.com/MethodM4N/MethodM4N/blob/main/icons/telegram_icon_130816.png" alt="Telegram" width="20" height="20"/> </a>
    
 </p>
