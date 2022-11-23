@@ -24,6 +24,6 @@
 
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 
-- 📤 other：![Postman](https://img.shields.io/badge/-Postman-orange)
+- 📤 other：![Postman](https://img.shields.io/badge/-Postman-orange)![Figma](https://img.shields.io/badge/-Figma-critical) 
 
 - 🌱 in progress：![TypeScrtipt](https://img.shields.io/badge/-TypeScrtipt-informational)
