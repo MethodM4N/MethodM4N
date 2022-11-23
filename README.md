@@ -7,6 +7,6 @@
 ## :link: Contacts
 
 <p align="left">
-   <a href="https://t.me/Methodmvn" target="_blank"> <img src="https://github.com/MethodM4N/MethodM4N/blob/main/icons/telegram_icon_130816.png" alt="Telegram" width="20" height="20"/> </a>
+   <a href="https://t.me/Methodmvn" target="_blank"> <img src="https://github.com/MethodM4N/MethodM4N/blob/main/icons/telegram_icon_130816.png" alt="Telegram" width="40" height="40"/> </a>
    
 </p>
