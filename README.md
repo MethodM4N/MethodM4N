@@ -38,4 +38,10 @@
 - 🎮 I love video games, traveling, listening to music
 - 🧍 Yep it's me ----->>
 
+## :bar_chart: Stats
+
+:zap: in progress...
+
+
+
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
