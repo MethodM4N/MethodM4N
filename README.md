@@ -31,5 +31,5 @@
 ## 🧍 About Me
 
 <div align="right">
-   <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/2804.gif" alt="portrait" />
+   <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/Portrait.gif" alt="portrait" />
 </div>
