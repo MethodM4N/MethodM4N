@@ -14,9 +14,9 @@
 
 ## :toolbox: Toolbox
 
-- 🔭 back-end： ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen)
+- 🗄️ back-end： ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen)
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![React](https://img.shields.io/badge/-React-informational)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+- 🖼️ front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![React](https://img.shields.io/badge/-React-informational)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 
