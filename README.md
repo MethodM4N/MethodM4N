@@ -30,6 +30,6 @@
 
 ## 🧍 About Me
 
-<div align="right">
+<div align="right" width="40" height="500">
    <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/Portrait.gif" alt="portrait" />
 </div>
