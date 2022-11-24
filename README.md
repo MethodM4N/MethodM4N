@@ -33,5 +33,5 @@
 
 <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/Portrait.gif" alt="portrait" width="335" height="479" align="right" />
 
-- 📈 Improving the skills that I've learned and learning new things
+- 📈 Improving the skills that I've learned and continue to learn new things
 - 🧍 Yep it's me ----->>
