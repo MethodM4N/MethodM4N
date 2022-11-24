@@ -27,3 +27,9 @@
 - 📤 other：![Postman](https://img.shields.io/badge/-Postman-orange)![Figma](https://img.shields.io/badge/-Figma-critical)![Photoshop](https://img.shields.io/badge/-Photoshop-blue)![Lightroom](https://img.shields.io/badge/-Lightroom-blue)![]()    
 
 - 🌱 in progress：![TypeScrtipt](https://img.shields.io/badge/-TypeScrtipt-informational)
+
+## 🧍 About Me
+
+<div align="right">
+   <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/2804.gif" alt="portrait" />
+</div>
