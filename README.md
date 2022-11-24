@@ -30,8 +30,10 @@
 
 ## 🧍 About Me
 
-
 <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/Portrait.gif" alt="portrait" width="335" height="479" align="right" />
 
 - 📈 Improving the skills that I've learned and continue to learn new things
+- 💬 Looking to work in a close-knit team on interesting projects
+- 🏂 I like snowboarding, chess, learn English
+- 🎮 I like video games, traveling, listening to music
 - 🧍 Yep it's me ----->>
