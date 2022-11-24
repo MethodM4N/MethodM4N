@@ -33,3 +33,7 @@
 <div align="right">
    <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/Portrait.gif" alt="portrait" width="335" height="479" />
 </div>
+
+- 📈 Improving the skills that I've learned and learning new things;
+- 
+- 🧍 Yep it's me ----->>
