@@ -36,7 +36,7 @@
 - 💬 Looking to work in a close-knit team on interesting projects, it would be cool to work with experienced colleagues
 - 🏂 I like snowboarding, chess, learn English
 - 🎮 I love video games, traveling, listening to music
-- 🧍 Yep it's me ----->>
+- 🧍 Yep it's me --->
 
 ## :bar_chart: Stats
 
