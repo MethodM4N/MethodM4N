@@ -2,8 +2,9 @@
    <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/HelloWorld.gif" alt="HelloWorld" />
 </div>
 
-# Welcome To My GitHub Profile! My name is Aleksandr! <br></br> 
-## I'm a graduaded Web Developer by [Yandex.Prakticum](https://practicum.yandex.ru/) :computer:
+# Welcome To My GitHub Profile! My name is Aleksandr!
+<br></br> 
+# I'm a graduaded Web Developer by [Yandex.Prakticum](https://practicum.yandex.ru/) :computer:
                                 
 ## :link: Contacts
 
