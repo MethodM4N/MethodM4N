@@ -1,6 +1,6 @@
 <div align="center">
    <img src="https://github.com/MethodM4N/MethodM4N/blob/main/Images/HelloWorld.gif" alt="HelloWorld" />
-   # Welcome To My GitHub Profile! My name is Aleksandr!
+   <h1>Welcome To My GitHub Profile! My name is Aleksandr!</h1> 
 </div>
 
 ## I'm a graduaded Web Developer by [Yandex.Prakticum](https://practicum.yandex.ru/) :computer:
