@@ -4,7 +4,7 @@
 </div>
 
 ### I'm a graduaded Web Developer by [Yandex.Prakticum](https://practicum.yandex.ru/) :computer:
-                                
+                        
 ## :link: Contacts
 
 <p align="left">
