@@ -3,7 +3,7 @@
    <h1>Welcome To My GitHub Profile! My name is Aleksandr!</h1> 
 </div>
 
-## I'm a graduaded Web Developer by [Yandex.Prakticum](https://practicum.yandex.ru/) :computer:
+### I'm a graduaded Web Developer by [Yandex.Prakticum](https://practicum.yandex.ru/) :computer:
 
 ## :link: Contacts
 
