@@ -45,7 +45,7 @@
 
 
 
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='220"'>
 
 <p align="center"><img src="https://acegif.com/wp-content/uploads/gifs/clover-leaf-7.gif" width="25">
 <em>Lady Luck favors the one who tries</em><img src="https://acegif.com/wp-content/uploads/gifs/clover-leaf-7.gif" width="25"></p>
