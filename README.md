@@ -27,7 +27,7 @@
 
 - 📤 other：![Postman](https://img.shields.io/badge/-Postman-orange)![Figma](https://img.shields.io/badge/-Figma-critical)![Photoshop](https://img.shields.io/badge/-Photoshop-blue)![Lightroom](https://img.shields.io/badge/-Lightroom-blue)![]()    
 
-- 🌱 in progress：![Next.js](https://img.shields.io/badge/-Next.js-black)
+- 🌱 in progress：![Next.js](https://img.shields.io/badge/-Next.js-black) ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen)
 
 ## 🧍 About Me
 
