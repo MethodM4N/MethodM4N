@@ -35,7 +35,7 @@
 
 - 📈 Improving the skills that I've learned and continue to learn new things
 - 💬 Looking to work in a close-knit team on interesting projects, it would be cool to work with experienced colleagues
-- 🏂 I like snowboarding, chess, learn English
+- 🏂 I like snowboarding, chess, learn foreign languages
 - 🎮 I love video games, traveling, listening to music
 - 🧍 Yep it's me --->
 
