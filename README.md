@@ -15,7 +15,7 @@
 
 ## :toolbox: Toolbox
 
-- 🗄️ back-end： ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen)
+- 🗄️ back-end： ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 - 🖼️ front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-informational) ![React](https://img.shields.io/badge/-React-informational) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-blueviolet) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-ff69b4)
 
