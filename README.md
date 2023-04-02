@@ -17,7 +17,7 @@
 
 - 🗄️ back-end： ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-- 🖼️ front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-informational) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-blueviolet) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-ff69b4)
+- 🖼️ front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux Toolkit](https://img.shields.io/badge/ReduxTK-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 
@@ -25,7 +25,7 @@
 
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 
-- 📤 other：![Postman](https://img.shields.io/badge/-Postman-orange) ![Figma](https://img.shields.io/badge/-Figma-critical) ![Photoshop](https://img.shields.io/badge/-Photoshop-blue) ![Lightroom](https://img.shields.io/badge/-Lightroom-blue)![]()    
+- 📤 other：![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-blue) ![Lightroom](https://img.shields.io/badge/-Lightroom-blue)![]()    
 
 - 🌱 in progress：![Next.js](https://img.shields.io/badge/-Next.js-black) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=brightgreen)
 
