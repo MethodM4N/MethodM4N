@@ -25,9 +25,9 @@
 
 - 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 
-- 📤 other：![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-blue) ![Lightroom](https://img.shields.io/badge/-Lightroom-blue)![]()    
+- 📤 other：![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/AdobePhotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/AdobeLightroom-31A8FF.svg?style=flat&logo=AdobeLightroom&logoColor=white)![]()    
 
-- 🌱 in progress：![Next.js](https://img.shields.io/badge/-Next.js-black) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=brightgreen)
+- 🌱 in progress：![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=brightgreen)
 
 ## 🧍 About Me
 
