@@ -17,7 +17,7 @@
 
 - 🗄️ back-end： ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-- 🖼️ front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux Toolkit](https://img.shields.io/badge/ReduxTK-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MobX](https://img.shields.io/badge/-MobX-orange) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+- 🖼️ front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=brightgreen) ![Redux Toolkit](https://img.shields.io/badge/ReduxTK-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MobX](https://img.shields.io/badge/-MobX-orange) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
 - :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
 
@@ -27,7 +27,7 @@
 
 - 📤 other：![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/AdobePhotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/AdobeLightroom-31A8FF.svg?style=flat&logo=AdobeLightroom&logoColor=white)![]()    
 
-- 🌱 in progress：![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=brightgreen)
+- 🌱 in progress：![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) 
 
 ## 🧍 About Me
 
